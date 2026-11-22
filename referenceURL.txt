@@ -1,0 +1,12 @@
+URL for reading html table :
+
+URL for for failed bank list:
+
+https://www.fdic.gov/bank-failures/failed-bank-list
+
+download csv file in project folder
+
+#Matplot lib
+#https://pypi.org/project/matplotlib/
+ activate virtual environment ...
+pip install matplotlib
